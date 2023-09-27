@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/298.20bc32ea.chunk.js","mappings":"oGAAO,SAASA,EAAOC,GACnBC,QAAQC,IAAI,cAChB,C","sources":["components/charList/SomeFunc.js"],"sourcesContent":["export function logger(params) {\r\n    console.log('hello world');\r\n}"],"names":["logger","params","console","log"],"sourceRoot":""}

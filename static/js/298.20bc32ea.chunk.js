@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmarvel=self.webpackChunkmarvel||[]).push([[298],{298:function(e,l,n){function o(e){console.log("hello world")}n.r(l),n.d(l,{logger:function(){return o}})}}]);
+//# sourceMappingURL=298.20bc32ea.chunk.js.map
